@@ -60,11 +60,15 @@ Bandit(
 ### 1. Reward Distribution (Figure 2.1)
 Visualizes the reward distribution for a 10-armed bandit problem using violin plots.
 
+![Figure 2.1 - Reward Distribution](generated_images/figure_2_1.png)
+
 ### 2. ε-greedy vs Greedy Comparison (Figure 2.2)
 Compares performance of:
 - Greedy (ε = 0.00)
 - ε-greedy (ε = 0.10)
 - ε-greedy (ε = 0.01)
+
+![Figure 2.2 - Greedy vs ε-greedy Comparison](generated_images/figure_2_2.png)
 
 **Results**: ε-greedy methods show better long-term performance due to continued exploration.
 
@@ -73,6 +77,8 @@ Compares:
 - Optimistic initialization (ε = 0, Q₁ = 5)
 - Realistic initialization (ε = 0.1, Q₁ = 0)
 
+![Figure 2.3 - Optimistic vs Realistic Initial Values](generated_images/figure_2_3.png)
+
 **Results**: Optimistic initialization encourages early exploration even with greedy selection.
 
 ### 4. Upper Confidence Bound (Figure 2.4)
@@ -80,12 +86,16 @@ Compares:
 - UCB with c = 2
 - ε-greedy with ε = 0.1
 
+![Figure 2.4 - UCB vs ε-greedy Performance](generated_images/figure_2_4.png)
+
 **Results**: UCB shows superior performance by intelligently selecting actions based on uncertainty.
 
 ### 5. Gradient Bandit Algorithm (Figure 2.5)
 Compares different configurations:
 - α = 0.1 with/without baseline
 - α = 0.4 with/without baseline
+
+![Figure 2.5 - Gradient Bandit Algorithm Results](generated_images/figure_2.5.png)
 
 **Results**: Using baseline significantly improves performance, and higher learning rates can be beneficial.
 
