@@ -72,9 +72,6 @@ jupyter notebook
 - Monte Carlo Methods (First-visit, Every-visit, Control)
 - Temporal-Difference Learning (TD(0), SARSA, Q-Learning, Expected SARSA)
 - n-step Methods and Eligibility Traces
-- Planning and Learning (Dyna-Q, Prioritized Sweeping)
-- Function Approximation (Linear, Neural Networks)
-- Policy Gradient Methods (REINFORCE, Actor-Critic)
 
 ### **Experimental Environments**
 - Multi-Armed Bandits Testbed
