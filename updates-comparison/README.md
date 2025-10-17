@@ -1,4 +1,4 @@
-# **Reinforcement Learning: Updates Comparison**
+# **Updates Comparison**
 
 This project provides a comparative analysis of **expected updates** and **sample updates** in model-based reinforcement learning.  
 The experiment is based on **Chapter 8: Planning and Learning with Tabular Methods**, specifically **Figure 8.7**, from the book *Reinforcement Learning: An Introduction* by **Richard S. Sutton** and **Andrew G. Barto**.
