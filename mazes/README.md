@@ -1,4 +1,4 @@
-# Reinforcement Learning: Tabular Model-Based Methods for Maze Navigation
+# Tabular Model-Based Methods for Maze Navigation
 
 This project implements and evaluates several tabular model-based reinforcement learning algorithms, including Dyna-Q, Dyna-Q+, and Prioritized Sweeping. The implementations are based on Chapter 8: Planning and Learning with Tabular Methods from *Reinforcement Learning: An Introduction* by Richard S. Sutton and Andrew G. Barto.
 
