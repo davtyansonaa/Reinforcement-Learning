@@ -16,17 +16,6 @@ The project includes:
 
 ---
 
-## Project Structure
-```
-baird-counterexample/
-├── experiments/               # Experimental notebooks and scripts
-├── results/                   # Generated plots and analysis
-├── src/                      # Core implementation
-└── README.md
-```
-
----
-
 ## Key Features
 
 - Implements the **canonical 7-state counterexample** revealing the deadly triad
